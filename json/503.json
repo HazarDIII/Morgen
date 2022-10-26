@@ -1,0 +1,39 @@
+{
+  "description": "Morgen TON - 666",
+  "image": "https://raw.githubusercontent.com/HazarDIII/Morgen/main/images/503.png",
+  "dna": "4811d78bfa8b9874a6c31e20c46cabf950df565e",
+  "edition": 503,
+  "date": 1666733423192,
+  "attributes": [
+    {
+      "trait_type": "Back",
+      "value": "IMG_1113"
+    },
+    {
+      "trait_type": "Bodye",
+      "value": "Morgen"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "indifferent 3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Non"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hair 5"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "gray hoodie"
+    }
+  ],
+  "compiler": "https://t.me/Samsonoff_NFT",
+  "name": "Morgen #503"
+}
