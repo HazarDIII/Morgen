@@ -1,8 +1,8 @@
 {
   "description": "Morgen TON - 666",
-  "image": "https://raw.githubusercontent.com/HazarDIII/Morgen/main/images/666.png",
+  "image": "https://raw.githubusercontent.com/HazarDIII/Morgen/main/images/0.png",
   "dna": "73b852ac42c19fe3407edbe6a8cb9512ae9308ab",
-  "edition": 666,
+  "edition": 0,
   "date": 1666733546500,
   "attributes": [
     {
@@ -35,5 +35,5 @@
     }
   ],
   "compiler": "https://t.me/Samsonoff_NFT",
-  "name": "Morgen #666"
+  "name": "Morgen #0"
 }
