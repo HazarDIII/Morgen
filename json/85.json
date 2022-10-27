@@ -1,0 +1,39 @@
+{
+  "name": "Morgen #85",
+  "description": "More: https://t.me/lastone_nft",
+  "image": "https://raw.githubusercontent.com/HazarDIII/Morgen/main/images/85.png",
+  "dna": "dd3fa270b5828c4ec060350bd33c43323d1b725d",
+  "edition": 85,
+  "date": 1666880358225,
+  "attributes": [
+    {
+      "trait_type": "Back",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Bodye",
+      "value": "Morgen"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "focus"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 2"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Non"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap 3"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "purple hoodie "
+    }
+  ],
+  "compiler": "https://t.me/Samsonoff_NFT"
+}
