@@ -1,0 +1,39 @@
+{
+  "name": "Morgen #397",
+  "description": "More: https://t.me/lastone_nft",
+  "image": "https://raw.githubusercontent.com/HazarDIII/Morgen/main/images/397.png",
+  "dna": "a576ebf31ba974ec77b2fb8eec4a844ee3ef3963",
+  "edition": 397,
+  "date": 1666880480400,
+  "attributes": [
+    {
+      "trait_type": "Back",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Bodye",
+      "value": "Morgen"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "indifferent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "clenched teeth"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Non"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hair 7"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "gray hoodie "
+    }
+  ],
+  "compiler": "https://t.me/Samsonoff_NFT"
+}

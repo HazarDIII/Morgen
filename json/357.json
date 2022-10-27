@@ -1,0 +1,39 @@
+{
+  "name": "Morgen #357",
+  "description": "More: https://t.me/lastone_nft",
+  "image": "https://raw.githubusercontent.com/HazarDIII/Morgen/main/images/357.png",
+  "dna": "1700e382fe09a230f23442808246800179c2935b",
+  "edition": 357,
+  "date": 1666880464709,
+  "attributes": [
+    {
+      "trait_type": "Back",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Bodye",
+      "value": "Morgen"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "bad boy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "clenched teeth"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Non"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hair 1"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "purple hoodie "
+    }
+  ],
+  "compiler": "https://t.me/Samsonoff_NFT"
+}
