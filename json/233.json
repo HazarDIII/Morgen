@@ -1,0 +1,39 @@
+{
+  "name": "Morgen #233",
+  "description": "More: https://t.me/lastone_nft",
+  "image": "https://raw.githubusercontent.com/HazarDIII/Morgen/main/images/233.png",
+  "dna": "d4990e417cf1643154dbbde060d8f50592a338c0",
+  "edition": 233,
+  "date": 1666880416006,
+  "attributes": [
+    {
+      "trait_type": "Back",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Bodye",
+      "value": "Morgen"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "focus"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 3"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "IMG_1152"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hair 5"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "purple hoodie "
+    }
+  ],
+  "compiler": "https://t.me/Samsonoff_NFT"
+}
